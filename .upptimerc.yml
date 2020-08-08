@@ -1,0 +1,113 @@
+# Change these first
+owner: bgd-labs # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+sites:
+  - name: Indexer
+    url: https://indexer.staging.bgdlabs.com
+    assignees:
+     - boredland
+  - name: Coolify
+    url: https://app.coolify.io
+  - name: Indexer (indexing)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (mainnet)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=1
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (arbitrum)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=42161
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (avalanche)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=43114
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (base)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=8453
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (bnb)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=56
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (celo)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=42220
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (gnosis)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=100
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (linea)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=42220
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (metis)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=1088
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (optimism)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=10
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (plasma)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=9745
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (polygon)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=137
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (scroll)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=534352
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (soneium)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=1868
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (sonic)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=146
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+  - name: Indexer (zksync)
+    url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=324
+    __dangerous__body_degraded: behind
+    assignees:
+     - boredland
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: up.bgdlabs.com
+  baseUrl: /uptime
+  logoUrl: https://avatars.githubusercontent.com/u/101805912?s=200&v=4
+  theme: light
+  name: BGD Upptime
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
