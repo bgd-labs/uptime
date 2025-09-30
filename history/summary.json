@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/indexer.staging.bgdlabs.com.ico",
     "slug": "indexer-indexing",
     "status": "degraded",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 860,
     "timeDay": 860,
     "timeWeek": 860,
     "timeMonth": 860,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2025-09-30": 63
+      "2025-09-30": 75
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/indexer.staging.bgdlabs.com.ico",
     "slug": "indexer-arbitrum",
     "status": "degraded",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-09-30": 57
+      "2025-09-30": 69
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=43114",
     "icon": "https://icons.duckduckgo.com/ip3/indexer.staging.bgdlabs.com.ico",
     "slug": "indexer-avalanche",
-    "status": "degraded",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "status": "up",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-09-30": 57
+      "2025-09-30": 68
     }
   },
   {
@@ -119,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/indexer.staging.bgdlabs.com.ico",
     "slug": "indexer-bnb",
     "status": "up",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "17.47%",
+    "uptimeDay": "17.47%",
+    "uptimeWeek": "17.47%",
+    "uptimeMonth": "17.47%",
+    "uptimeYear": "17.47%",
     "time": 250,
     "timeDay": 250,
     "timeWeek": 250,
@@ -204,7 +204,7 @@
     "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-09-30": 57
+      "2025-09-30": 68
     }
   },
   {
@@ -224,7 +224,7 @@
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-09-30": 57
+      "2025-09-30": 68
     }
   },
   {
@@ -262,7 +262,7 @@
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-09-30": 56
+      "2025-09-30": 68
     }
   },
   {
