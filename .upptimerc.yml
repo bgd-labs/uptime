@@ -99,7 +99,7 @@ status-website:
   cname: status.bgdlabs.com
   #baseUrl: /uptime
   logoUrl: https://avatars.githubusercontent.com/u/101805912?s=200&v=4
-  theme: night
+  theme: light
   name: BGD Upptime
   navbar:
     - title: Status
