@@ -1,7 +1,7 @@
 url: https://indexer.staging.bgdlabs.com/status/logs?minBehind=1000&chainId=42161
 status: up
 code: 200
-responseTime: 216
-lastUpdated: 2025-10-01T23:06:25.171Z
+responseTime: 232
+lastUpdated: 2025-10-02T23:06:17.292Z
 startTime: 2025-09-30T18:06:03.117Z
 generator: Upptime <https://github.com/upptime/upptime>
