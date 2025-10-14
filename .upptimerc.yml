@@ -99,8 +99,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: up.bgdlabs.com
-  publish: true
-  baseUrl: /uptime
+  publish: false
+  # baseUrl: /uptime
   logoUrl: https://avatars.githubusercontent.com/u/101805912?s=200&v=4
   theme: light
   name: BGD Upptime
