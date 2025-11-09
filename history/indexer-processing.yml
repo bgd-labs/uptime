@@ -1,7 +1,7 @@
 url: https://indexer.staging.bgdlabs.com/status/queue-stats?minBehind=10000
-status: up
+status: degraded
 code: 200
-responseTime: 155
-lastUpdated: 2025-11-09T12:27:01.050Z
+responseTime: 190
+lastUpdated: 2025-11-09T14:48:36.218Z
 startTime: 2025-10-30T17:45:39.655Z
 generator: Upptime <https://github.com/upptime/upptime>
