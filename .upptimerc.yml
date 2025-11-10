@@ -15,7 +15,7 @@ sites:
     assignees:
      - boredland
   - name: Indexer (processing)
-    url: https://indexer.staging.bgdlabs.com/status/queue-stats?minBehind=10000
+    url: https://indexer.staging.bgdlabs.com/status/queues?minBehind=10000
     __dangerous__body_degraded: behind
     assignees:
      - boredland
